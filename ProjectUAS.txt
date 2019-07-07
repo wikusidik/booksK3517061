@@ -1,0 +1,26 @@
+Project UAS
+--------------------
+1. Buatlah modul 'Kategori' di dashboard XXXXXXXXX //ditambah prompt(?)
+   - Tambah Kategori
+   - Edit Kategori
+   - Hapus Kategori	
+2. Buatlah modul 'Users' di dashboard XXXXXXXX //ditambah prompt(?)
+   - Tambah User
+   - Edit User
+   - Hapus User
+3. Modifikasilah tabel user, tambahkan XXXXXXXXX
+   field: role -> admin, operator
+4. Buatlah pengaturan hak akses halaman XXXXXXXXXXXXXXXXXXXXx
+   berdasarkan role:
+   - admin -> bisa mengakses semua menu
+              (dashboard, tambah buku,  
+              kategori, users, data buku)   
+   - operator -> hanya bisa akses menu:
+                 (dashboard, data buku) 
+5. Tambahkan keterangan jumlah data buku  XXXXXXXXXXXXXXXXXXXXxxx
+   di halaman data buku
+6. Tambahkan fitur edit dan view data buku XXXXXXXXXXXXXXXXXXX
+   di halaman data buku
+7. Lengkapi dengan paging di table data buku (pagination, user guide ada)  XXXXXXXXXXXXXXXXXXXXXXXX
+
+optional : dynamic chart
